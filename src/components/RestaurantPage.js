@@ -47,7 +47,7 @@ export default function RestaurantPage(props) {
         }}
         {...rest}
       />
-      <Parallax filter transforming image={require("../assets/img/bajos/img28.jpg").default}>
+      <Parallax filter transforming image={require("../assets/img/bajos/img29.jpg").default}>
         <div className={classes.container}>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
